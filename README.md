@@ -1,6 +1,6 @@
 # pocket-sphinx-auto-install
 
-# Automatically install pocketsphinx
+#### Automatically install pocketsphinx on Ubuntu
 
 ## getting started
 
